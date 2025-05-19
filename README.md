@@ -10,11 +10,11 @@ Drawer Navigation
     └── Stack Navigation
 Libraries Used
 
-Core Navigation: @react-navigation/native
-Drawer Navigation: @react-navigation/drawer
-Bottom Tabs: @react-navigation/bottom-tabs
-Stack Navigation: @react-navigation/native-stack
-Animations: react-native-reanimated
+Core Navigation: @react-navigation/native </br>
+Drawer Navigation: @react-navigation/drawer </br>
+Bottom Tabs: @react-navigation/bottom-tabs </br>
+Stack Navigation: @react-navigation/native-stack </br>
+Animations: react-native-reanimated </br>
 
 **Animation Implementation**
 
